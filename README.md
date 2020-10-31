@@ -18,4 +18,4 @@ https://github.com/keithbrewer1337/unity-scene-switcher.git
 
 ## Usage
 
-After installation a new menu "Packages" will appear.
+After installation, the Scene Switcher window can be opened by navigating to Window->GameBrew Studios->Tools->Scene Switcher
