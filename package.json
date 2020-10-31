@@ -1,0 +1,14 @@
+{
+    "name": "com.gamebrewstudios.unity-scene-switcher",
+    "version": "0.1.0",
+    "displayName": "Scene Switcher",
+    "type": "tool",
+    "samples": [],
+    "description": "Simple EditorWindow that lets you more easily switch scenes without searching through your project folders.",
+    "license": "Apache-2.0",
+    "author": {
+        "name": "Keith Brewer",
+        "email": "sentrestage@gmail.com",
+        "url": "https://gamebrewstudios.com"
+    }
+}
